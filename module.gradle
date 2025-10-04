@@ -1,0 +1,9 @@
+ext {
+    magiskModuleId = "geoink"
+
+    moduleName = "GeoInk Module"
+    moduleAuthor = "HanSoBored"
+    moduleDescription = "GeoInk is Module Made with Rust for .. Implement with Zygisk Api."
+    moduleVersion = "v0.0.1"
+    moduleVersionCode = 1
+}
